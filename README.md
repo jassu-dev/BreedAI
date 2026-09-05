@@ -55,7 +55,7 @@ PyTorch Model (.pth) → ONNX Export → ONNX Runtime Web → Web Application
 ### Model Training Environment
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/breedai.git
+git clone (https://github.com/jassu-dev/BreedAI.git)
 cd breedai
 
 # Create virtual environment
