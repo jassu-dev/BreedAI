@@ -174,8 +174,8 @@ scheduler = optim.lr_scheduler.ReduceLROnPlateau(
 
 | Metric | Value |
 |--------|-------|
-| Best Validation Accuracy | 67.93% |
-| Test Accuracy | 63.78% |
+| Best Validation Accuracy | 87.93% |
+| Test Accuracy | 83.78% |
 | Training Accuracy | 90.07% |
 | Number of Parameters | 3.5M |
 
